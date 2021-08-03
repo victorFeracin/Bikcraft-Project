@@ -1,0 +1,11 @@
+TIPOGRAFIA (px):
+
+14/20 (corpo de texto);
+
+18/25 (corpo de texto);
+
+24/30 (subtítulo / título);
+
+36/40 (título);
+
+48/60 (título);
