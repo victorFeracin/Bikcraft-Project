@@ -1,0 +1,10 @@
+Estilo:
+Geométrico nas formas, com um toque rústico, artesanal na tipografia
+
+Tipografia:
+Arial - títulos
+Georgia - conteúdos, texto
+
+Cores:
+#fec63e
+#000000
